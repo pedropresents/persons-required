@@ -8,7 +8,7 @@
 
 ## The Person
 
-**Pedro F.** My father (Note: he shares the same first and last name as myself). Professional in the tech sector. He is a consistent user in AI tools. He is actively interested in transitioning more of his financial habits to digital systems but has not yet made the full switch. In the meantime, his current approach is deliberate: he pays primarily with non-digital forms of payment and prefers physical receipts over email receipts.
+**Pedro F.** My father. Professional in the tech sector. He is a consistent user in AI tools. He is actively interested in transitioning more of his financial habits to digital systems but has not yet made the full switch. In the meantime, his current approach is deliberate: he pays primarily with non-digital forms of payment and prefers physical receipts over email receipts.
 
 The consequence of that transitional moment, between a physical-first system and a fully digital one, is a documentation gap that compounds over time. Every cash transaction produces a thermal receipt. Thermal paper degrades within weeks. Without a capture system at the point of purchase, the administrative work defers entirely to tax season: receipts retrieved, manually transcribed into a spreadsheet, business expenses separated from personal, and context reconstructed from memory months after the fact.
 
