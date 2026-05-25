@@ -18,7 +18,7 @@ The inefficiency is not a discipline problem — his records are thorough and hi
 
 ## Design Argument
 
-**Thesis:** Pedro Febles needs a system that meets him exactly where he is — not one that asks him to change his financial behavior — and converts the physical receipt into a structured, categorized, tax-ready digital record at the moment of purchase, before the paper fades and before the context is lost.
+**Thesis:** Pedro F needs a system that meets him exactly where he is — not one that asks him to change his financial behavior — and converts the physical receipt into a structured, categorized, tax-ready digital record at the moment of purchase, before the paper fades and before the context is lost.
 
 **What "helped" looks like:** My father ends tax season 2027 having not touched a physical receipt for organization purposes once. Every receipt he collected during the year was scanned within 24 hours of receipt, categorized as business or personal, annotated with a voice or text note explaining the expense, and stored in a structured record he can export to a spreadsheet and hand to his accountant. He still pays with cash. He still takes physical receipts. Nothing about his financial behavior changes. The tool absorbs the administrative burden that currently falls on him every spring.
 
